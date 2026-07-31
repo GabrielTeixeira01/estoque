@@ -1,0 +1,49 @@
+
+> corpsystem-gestao-pessoas@1.0.0 dev
+> vite --host 127.0.0.1 --port 5173
+
+[2m08:30:26[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m Re-optimizing dependencies because vite config has changed
+
+  [32m[1mVITE[22m v8.2.0[39m  [2mready in [0m[1m254[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m5173[22m/[39m
+[2m08:33:35[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m08:33:36[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/layout/AppShell.tsx[22m
+[2m08:33:37[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/layout/Sidebar.tsx[22m
+[2m08:33:37[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/layout/Topbar.tsx[22m
+[2m08:33:39[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/HomePage.tsx[22m
+[2m08:33:39[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/RegisterPage.tsx[22m
+[2m08:33:41[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/LoginPage.tsx, /src/pages/HomePage.tsx, /src/App.tsx, /src/pages/AnalyticsPage.tsx, /src/pages/HrPanelPage.tsx, /src/pages/RegisterPage.tsx, /src/components/layout/Sidebar.tsx, /src/components/ui/Avatar.tsx, /src/components/layout/Topbar.tsx, /src/components/employees/EmployeeTable.tsx, /src/components/employees/EditEmployeeModal.tsx, /src/components/employees/EmployeeForm.tsx[22m
+[2m08:33:42[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/HrPanelPage.tsx[22m
+[2m08:33:43[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/LoginPage.tsx[22m
+[2m08:33:44[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/employees/EditEmployeeModal.tsx[22m
+[2m08:33:45[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/employees/EmployeeTable.tsx[22m
+[2m08:33:46[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/ui/EmptyState.tsx[22m
+[2m08:35:39[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/global.css[22m
+[2m08:36:24[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/global.css[22m
+[2m08:36:37[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/global.css[22m
+[2m08:37:11[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/ui/EmptyState.tsx[22m
+[2m08:37:12[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/global.css[22m
+[2m08:39:10[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/HomePage.tsx, /src/App.tsx, /src/pages/AnalyticsPage.tsx, /src/pages/RegisterPage.tsx, /src/components/ui/Avatar.tsx, /src/components/layout/Topbar.tsx, /src/components/employees/EmployeeForm.tsx[22m
+[2m08:39:11[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/HomePage.tsx, /src/App.tsx, /src/pages/AnalyticsPage.tsx, /src/pages/RegisterPage.tsx, /src/components/ui/Avatar.tsx, /src/components/layout/Topbar.tsx, /src/components/employees/EmployeeForm.tsx[22m
+[2m08:39:12[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m08:39:14[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m08:39:16[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/HomePage.tsx, /src/pages/AnalyticsPage.tsx, /src/pages/RegisterPage.tsx, /src/components/ui/Avatar.tsx, /src/components/layout/Topbar.tsx, /src/components/employees/EmployeeForm.tsx[22m
+[2m08:39:16[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/HomePage.tsx, /src/pages/AnalyticsPage.tsx, /src/pages/RegisterPage.tsx, /src/components/ui/Avatar.tsx, /src/components/layout/Topbar.tsx, /src/components/employees/EmployeeForm.tsx[22m
+[2m08:40:02[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m08:40:03[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m08:40:04[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/layout/AppShell.tsx[22m
+[2m08:40:04[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/layout/AppShell.tsx[22m
+[2m08:40:06[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/layout/Sidebar.tsx[22m
+[2m08:40:06[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/layout/Sidebar.tsx[22m
+[2m08:40:07[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/layout/Topbar.tsx[22m
+[2m08:40:08[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/layout/Topbar.tsx[22m
+[2m08:41:13[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/HomePage.tsx[22m
+[2m08:41:13[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/HomePage.tsx[22m
+[2m08:41:14[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/AnalyticsPage.tsx[22m
+[2m08:41:16[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/RegisterPage.tsx[22m
+[2m08:44:41[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/employees/EmployeeForm.tsx[22m
+[2m08:44:42[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/ui/Avatar.tsx[22m
+[2m08:44:42[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mindex.html[22m
+[2m08:44:43[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/global.css[22m
+[2m08:44:44[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/global.css[22m
